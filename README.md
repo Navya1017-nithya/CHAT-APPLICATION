@@ -36,19 +36,6 @@ Auto Scroll – Chat window always scrolls to the newest message.
 Prompted Login – Users enter their name before joining the chat.
 
 
-chat-app/
-
-├── public/
-
-│   ├── index.html # The frontend layout
-
-│   └── script.js      # Client-side JavaScript using Socket.IO
-
-├── server.js          # Backend server using Express & Socket.IO
-
-├── package.json       # Node dependencies and scripts
-
-└── package-lock.json  # Exact versions of installed packages
 
 # How It Works
 
