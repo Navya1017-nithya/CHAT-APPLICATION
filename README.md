@@ -37,11 +37,17 @@ Prompted Login – Users enter their name before joining the chat.
 
 
 chat-app/
+
 ├── public/
-│   ├── index.html     # The frontend layout
+
+│   ├── index.html # The frontend layout
+
 │   └── script.js      # Client-side JavaScript using Socket.IO
+
 ├── server.js          # Backend server using Express & Socket.IO
+
 ├── package.json       # Node dependencies and scripts
+
 └── package-lock.json  # Exact versions of installed packages
 
 # How It Works
@@ -94,4 +100,5 @@ socket.io for real-time communication
 
 # Output 
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/727ec4ad-21d4-4e76-b611-b26accc7dd46" />
 
